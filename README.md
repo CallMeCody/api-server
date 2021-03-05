@@ -8,7 +8,7 @@
 
 - [ci/cd](https://github.com/CallMeCody/basic-express-server/actions) (GitHub Actions)
 - [HEROKU APP](https://api-server-class-04.herokuapp.com/)
-- [Pull Request](https://github.com/CallMeCody/api-server/pull/2)
+- [Pull Request](https://github.com/CallMeCody/api-server/pull/1)
 
 ### Setup
 
